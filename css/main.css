@@ -1,3 +1,41 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.header{
+    text-align : center;
+    background-color: white;
+    padding: 23px;
+
+
+}
+
+.header > a {
+    display: inline-block;
+    margin-right: 30px;
+    color: #0a402b;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
 body{
-    background: red;
+    background-color: white;
+}
+
+p{
+    font-size: 29px;
+    text-align: center;
+    color: #0a402b;
+    text-transform: uppercase;
+}
+
+.container{
+    background-color:#b6bea8;
+    margin: 10px;
 }
