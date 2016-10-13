@@ -11,8 +11,6 @@
     text-align : center;
     background-color: white;
     padding: 23px;
-
-
 }
 
 .header > a {
@@ -33,9 +31,18 @@ p{
     text-align: center;
     color: #0a402b;
     text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .container{
-    background-color:#b6bea8;
-    margin: 10px;
+    background-color:#ebebe8;
+    margin: 0 50px;
+}
+
+.footprint{
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    padding-bottom:20px;
 }
