@@ -35,6 +35,7 @@ p{
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 20px;
+    letter-spacing: 5px;
 }
 
 .container{
@@ -69,10 +70,64 @@ h5{
 }
 
 .captionleft{
-    padding-top: 231px;
+    padding-top: 232px;
+    position: relative;
+    left: 10%;
 }
 
 .captionright{
     padding-top: 231px;
+    position: relative;
+    right: 10%;
 }
 
+h2{
+    font-size: 29px;
+    text-align: center;
+    color: #0a402b;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 5px;
+}
+
+.featured{
+    width: 70%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.featured > div{
+    background-color: white;
+    float: left;
+    width: 30%;
+    margin: 0 10%;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.price{
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .4em;
+    color: #0a402b;
+    line-height: 36px;
+    text-align: center;
+}
+
+.price > h5{
+    letter-spacing: .4em;
+    line-height: 36px;
+}
+
+h5{
+    letter-spacing: .4em;
+    line-height: 36px;
+    margin-top: 24px;
+    color: #bb8462
+}
+
+h4{
+    color: 
+}
